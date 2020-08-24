@@ -14,7 +14,7 @@ public class runMain {
 	static final String DB_URL = "jdbc:mysql://localhost/webcrawl";
 	
 	static final String USER = "root";
-	static final String PASS = "Detroit1119!";
+	static final String PASS = null/*your pass*/;
 	
 	public static void main(String args[]) {
 		ArrayList<Website> articles = new ArrayList<Website>();
